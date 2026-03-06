@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multi-Channel Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h2>Wetterabfrage</h2>
+<input id="city" placeholder="Stadt">
+<button onclick="getWeather()">Wetter abrufen</button>
+
+<h2>Termin buchen</h2>
+<input id="date" placeholder="Datum (YYYY-MM-DD)">
+<input id="time" placeholder="Zeit (HH:MM)">
+<button onclick="bookAppointment()">Termin buchen</button>
+
+<h3>Antwort:</h3>
+<div id="result"></div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
