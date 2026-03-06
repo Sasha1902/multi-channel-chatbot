@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Multi-Channel Chatbot
 =======
 
@@ -13,7 +13,6 @@ Der Bot kann:
 Die Webanwendung verwendet **Flask** mit **AJAX**, um Anfragen ohne Neuladen der Seite zu bearbeiten.
 
 ---
-<<<<<<< HEAD
 
 ## Installation
 
