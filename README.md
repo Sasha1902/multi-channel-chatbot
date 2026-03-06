@@ -26,4 +26,3 @@ python -m venv venv
 python app.py
 python telegram_bot.py
 =======
->>>>>>> a75038c8fdbb569607906157a8835901c6a06f50
