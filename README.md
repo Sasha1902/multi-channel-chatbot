@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Multi-Channel Chatbot
+=======
+# multi-channel-chatbot
+>>>>>>> a75038c8fdbb569607906157a8835901c6a06f50
 
 ## Beschreibung
 
@@ -11,6 +15,7 @@ Der Bot kann:
 Die Webanwendung verwendet **Flask** mit **AJAX**, um Anfragen ohne Neuladen der Seite zu bearbeiten.
 
 ---
+<<<<<<< HEAD
 
 ## Installation
 
@@ -22,3 +27,5 @@ python -m venv venv
 
 python app.py
 python telegram_bot.py
+=======
+>>>>>>> a75038c8fdbb569607906157a8835901c6a06f50
