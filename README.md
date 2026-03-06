@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # Multi-Channel Chatbot
 =======
-# multi-channel-chatbot
->>>>>>> a75038c8fdbb569607906157a8835901c6a06f50
 
 ## Beschreibung
 
